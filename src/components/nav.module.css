@@ -1,0 +1,13 @@
+
+.Menu {
+    grid-area: me;
+    background-color: #7bab7a;
+}
+.Menu div{
+    margin-left: 10%;
+}
+
+
+.Menu a {
+    color: #61dafb;
+}
