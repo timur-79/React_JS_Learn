@@ -1,0 +1,12 @@
+
+.message_line{
+    display: flex;
+    background-color: #006400;
+    color: #2d5ec1;
+
+}
+.message_line img{
+    max-height: 50px;
+    border-radius: 80px;
+}
+

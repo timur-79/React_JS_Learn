@@ -1,0 +1,10 @@
+
+.box1{
+    grid-column:  1/6;
+    min-height: 10vmax;
+    min-width: 100%;
+    background-color: darkgreen;
+    color: red;
+
+}
+

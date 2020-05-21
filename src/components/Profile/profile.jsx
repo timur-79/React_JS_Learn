@@ -1,5 +1,6 @@
 import React from "react";
 import classes from "./profile.module.css";
+import Myposts from "./Myposts/myposts";
 
 const Profile = () => {
   return (
@@ -18,8 +19,8 @@ const Profile = () => {
         />
       </div>
       <div className={classes.box3}></div>
+    <Myposts/>
 
-      <div className={classes.box4}></div>
     </div>
   );
 };

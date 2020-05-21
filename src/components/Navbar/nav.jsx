@@ -1,6 +1,5 @@
 import React from "react";
 import classes from "./nav.module.css";
-console.log(classes);
 const Nav = () => {
   return (
     <nav className={`${classes.Menu} `}>
