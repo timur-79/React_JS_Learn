@@ -29,16 +29,4 @@
 
 }
 
-.Main{
-    grid-area: ma;
-    display: grid;
-    background-color: #d5dbe7;
-    grid-gap: 1em;
-    min-height: 80vmin;
-}
-.Main p{
-    justify-self: left;
-    align-self: start;
-    height: 15px;
 
-}

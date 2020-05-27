@@ -8,6 +8,14 @@
   grid-gap: 2px;
 }
 
+.App-wrapper-content{
+    grid-area: ma;
+    display: grid;
+    background-color: #d5dbe7;
+    grid-gap: 1em;
+    min-height: 80vmin;
+}
+
 
 
 

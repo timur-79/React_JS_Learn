@@ -4,10 +4,10 @@ const Nav = () => {
   return (
     <nav className={`${classes.Menu} `}>
       <div>
-        <a href="_blanc">First</a>
+        <a href="/profile">Профиль</a>
       </div>
       <div>
-        <a href="_blanc">Second</a>
+        <a href="/dialogs">Сообщения</a>
       </div>
       <div>
         <a href="_blanc">Third</a>
